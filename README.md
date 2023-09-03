@@ -8,7 +8,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a Tech lead, Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Thrymr Software from Lucknow, India.
+I am a Tech lead, Full-Stack Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Thrymr Software from Lucknow, India.
 - I’m working as a Technical lead and part of TDIS product team.
 - Share knowledge through guiding juniors and learning.
 
